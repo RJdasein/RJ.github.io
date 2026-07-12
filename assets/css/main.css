@@ -3958,7 +3958,6 @@ img.mfp-img {
    ============================================ */
 
 .theme-toggle-wrapper {
-  --hue: 223;
   --trans-dur: 0.5s;
   --trans-timing: cubic-bezier(0.65, 0, 0.35, 1);
   font-size: 30px;
@@ -3983,7 +3982,7 @@ input.switch__input {
 }
 
 .switch__icon {
-  color: hsla(var(--hue), 10%, 80%);
+  color: rgba(1, 31, 91, 0.3);
   pointer-events: none;
   position: absolute;
   top: 0.375em;
@@ -4014,12 +4013,14 @@ input.switch__input {
 
 .switch__inner:before,
 .switch__inner-icons {
-  transition: transform var(--trans-dur) var(--trans-timing);
+  transition:
+    background-color var(--trans-dur),
+    transform var(--trans-dur) var(--trans-timing);
   transform: translateX(-1.25em);
 }
 
 .switch__inner:before {
-  background-color: hsl(var(--hue), 90%, 50%);
+  background-color: #011f5b;
   border-radius: inherit;
   content: "";
   display: block;
@@ -4047,8 +4048,8 @@ input.switch__input {
   background-color: hsl(0, 0%, 100%);
   border-radius: 0.75em;
   box-shadow:
-    0 0 0 0.0625em hsla(var(--hue), 90%, 50%, 0),
-    0 0.125em 0.5em hsla(var(--hue), 10%, 10%, 0.1);
+    0 0 0 0.0625em rgba(153, 0, 0, 0),
+    0 0.125em 0.5em rgba(1, 31, 91, 0.15);
   outline: transparent;
   width: 2.75em;
   height: 1.5em;
@@ -4063,11 +4064,19 @@ input.switch__input {
 }
 
 input.switch__input:checked {
-  background-color: hsl(var(--hue), 10%, 10%);
+  background-color: #011f5b;
 }
 
 input.switch__input:checked ~ .switch__icon {
-  color: hsla(var(--hue), 10%, 40%);
+  color: rgba(110, 168, 255, 0.55);
+}
+
+input.switch__input:checked ~ .switch__inner:before {
+  background-color: #6ea8ff;
+}
+
+input.switch__input:checked ~ .switch__inner-icons .switch__icon {
+  color: #011f5b;
 }
 
 input.switch__input:checked ~ .switch__inner:before,
@@ -4090,8 +4099,8 @@ input.switch__input:checked ~ .switch__inner-icons .switch__icon:nth-of-type(2) 
 
 input.switch__input:focus-visible {
   box-shadow:
-    0 0 0 0.0625em hsla(var(--hue), 90%, 50%, 1),
-    0 0.125em 0.5em hsla(var(--hue), 10%, 10%, 0.1);
+    0 0 0 0.0625em #990000,
+    0 0.125em 0.5em rgba(1, 31, 91, 0.15);
 }
 
 .switch__sr {
@@ -4544,19 +4553,25 @@ body,
 }
 
 [data-theme="dark"] input.switch__input:checked {
-  background-color: #3a3a44;
+  background-color: #011f5b;
 }
 
 [data-theme="dark"] input.switch__input:checked ~ .switch__icon {
-  color: hsla(var(--hue), 10%, 55%);
+  color: rgba(110, 168, 255, 0.55);
 }
 
 [data-theme="dark"] .switch__inner:before {
-  background-color: hsl(var(--hue), 75%, 62%);
+  background-color: #6ea8ff;
 }
 
 [data-theme="dark"] .switch__inner-icons .switch__icon {
-  color: #1c1c22;
+  color: #011f5b;
+}
+
+[data-theme="dark"] input.switch__input:focus-visible {
+  box-shadow:
+    0 0 0 0.0625em #e5484d,
+    0 0.125em 0.5em rgba(0, 0, 0, 0.4);
 }
 
 /* ============================================

@@ -1,194 +1,334 @@
+---
+layout: page
+---
 
+# About Me
 
-<title>RJ Dasein｜芮洁 · 岱生</title>
+<img src="/images/dengsiming.jpg" class="floatpic">
 
-<style>
-body{
-    margin:0;
-    background:#F8F6F2;
-    color:#222;
-    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;
-    line-height:1.8;
-}
+Here is **Siming Deng (Larry Deng)**.<br>
 
-.container{
-    max-width:760px;
-    margin:auto;
-    padding:70px 30px;
-}
+I am a graduate student in the Department of [Electrical and Systems Engineering (ESE)](https://www.ese.upenn.edu/) at the [Penn Engineering](https://www.seas.upenn.edu/) of the **University of Pennsylvania**. Currently, I build **agentic AI tools and infrastructure** for iPhone hardware testing, spanning agent runtimes (multi-agent orchestration and tool use), on-device inference with **Apple MLX**, closed-loop test optimization, and **Vision Transformers** for distribution diagnosis. Broadly, my interests lie at the intersection of **AI infrastructure, applied ML, and hardware systems**. Prior to joining Penn, I gained valuable research experiences as a Research Assistant at Shenzhen University under the supervision of [Dr. Jun Zhang](https://www.researchgate.net/profile/Jun_Zhang93). My work focused on **Nonparametric Statistics**, **Distortion Measurement Error Models**, and **Large Sample Theory**. I developed and analyzed advanced statistical methods, conducted large-scale simulations, and applied these techniques to real-world datasets, resulting in five SCI publications.<br>
 
-h1{
-    font-size:54px;
-    margin-bottom:10px;
-    font-weight:300;
-}
+## Work Experience
 
-h2{
-    margin-top:70px;
-    font-weight:500;
-}
+<div class="timeline">
+  <div class="timeline-progress" id="timeline-progress"></div>
 
-.subtitle{
-    color:#666;
-    margin-bottom:50px;
-}
+  <div class="timeline-item timeline-item--current">
+    <div class="timeline-dot" style="background: #ffffff;">
+      <img src="/images/logo/apple.svg" alt="Apple">
+    </div>
+    <div class="timeline-card">
+      <div class="timeline-header">
+        <div class="timeline-role">Software Engineer <span class="timeline-sep">|</span> <span class="timeline-company">Apple Inc.</span></div>
+        <span class="timeline-time">Jan. 2026 - Present</span>
+      </div>
+      <div class="timeline-details">
+        Developed AI agent tools for iPhone hardware testing, enhancing automated diagnostics workflows and improving large-scale test efficiency.
+      </div>
+    </div>
+  </div>
 
-.lang{
-    position:fixed;
-    top:20px;
-    right:25px;
-}
+  <div class="timeline-item">
+    <div class="timeline-dot" style="background: #ffffff;">
+      <img src="/images/logo/upenn.svg" alt="UPenn">
+    </div>
+    <div class="timeline-card">
+      <div class="timeline-header">
+        <div class="timeline-role">Research Assistant <span class="timeline-sep">|</span> <span class="timeline-company">University of Pennsylvania</span></div>
+        <span class="timeline-time">Nov. 2025 - Jan. 2026</span>
+      </div>
+      <div class="timeline-details">
+        ViT-driven image geolocation.
+      </div>
+    </div>
+  </div>
 
-button{
-    border:none;
-    background:none;
-    font-size:15px;
-    cursor:pointer;
-    color:#666;
-}
+  <div class="timeline-item">
+    <div class="timeline-dot" style="background: #ffffff;">
+      <img src="/images/logo/sf.svg" alt="SF Express">
+    </div>
+    <div class="timeline-card">
+      <div class="timeline-header">
+        <div class="timeline-role">Software Engineer <span class="timeline-sep">|</span> <span class="timeline-company">SF Express</span></div>
+        <span class="timeline-time">May. 2025 - Jul. 2025</span>
+      </div>
+      <div class="timeline-details">
+        Delivered microservice modules for the order management system.
+      </div>
+    </div>
+  </div>
 
-button:hover{
-    color:black;
-}
+  <div class="timeline-item">
+    <div class="timeline-dot" style="background: #ffffff;">
+      <img src="/images/logo/boc.svg" alt="Bank of China">
+    </div>
+    <div class="timeline-card">
+      <div class="timeline-header">
+        <div class="timeline-role">Software Engineer <span class="timeline-sep">|</span> <span class="timeline-company">Bank of China</span></div>
+        <span class="timeline-time">Jul. 2024 - Sep. 2024</span>
+      </div>
+      <div class="timeline-details">
+        Involved in the deployment and fine-tuning of large language models in internal banking systems.
+      </div>
+    </div>
+  </div>
 
-.hidden{
-    display:none;
-}
-
-footer{
-    margin-top:80px;
-    color:#888;
-    font-size:14px;
-    text-align:center;
-}
-a{
-    color:#222;
-    text-decoration:none;
-}
-</style>
-</head>
-
-<body>
-
-<div class="lang">
-<button onclick="showEN()">EN</button> |
-<button onclick="showCN()">中文</button>
-</div>
-
-<div class="container">
-
-<div id="en">
-
-<h1>RJ Dasein</h1>
-
-<p class="subtitle">
-Ruijie (Eagle) Wu<br>
-Existential Psychotherapist<br>
-Dance Movement Therapist
-</p>
-
-<p><strong>Living. Moving. Becoming.</strong></p>
-
-<h2>About</h2>
-
-<p>
-Hi, I'm Ruijie (Eagle) Wu.
-</p>
-
-<p>
-I'm an existential psychotherapist and dance movement therapist.
-This website is my digital garden—a place where I share my work,
-thoughts, movement, and ongoing journey.
-</p>
-
-<h2>Now 🌱</h2>
-
-<p>
-July 2026<br>
-📍 Hanoi, Vietnam
-</p>
-
-<ul>
-<li>Figure skating and pole dance</li>
-<li>Learning Germany</li>
-<li>Preparing an online workshop</li>
-<li>Building this website</li>
-</ul>
-
-<h2>Contact</h2>
-
-<p>
-📧 hello@rjdasein.com
-</p>
-
-<p>
-Xiaohongshu · Spotify · Xiaoyuzhou · LinkedIn
-</p>
-
-</div>
-
-<div id="cn" class="hidden">
-
-<h1>RJ Dasein｜芮洁 · 岱生</h1>
-
-<p class="subtitle">
-伍芮洁<br>
-存在主义心理治疗师<br>
-舞动治疗师
-</p>
-
-<p><strong>生活 · 移动 · 成为</strong></p>
-
-<h2>关于我</h2>
-
-<p>
-你好，我是伍芮洁。
-</p>
-
-<p>
-这里不是传统意义上的个人官网，
-而是一座属于我的数字花园。
-我会在这里分享工作、思考、研究、旅行，以及仍在发生的生活。
-</p>
-
-<h2>近况 🌱</h2>
-
-<p>
-2026 年 7 月<br>
-📍 越南 · 河内
-</p>
-
-<ul>
-<li>练习滑冰与钢管舞</li>
-<li>学习德语</li>
-<li>准备线上舞动工作坊</li>
-<li>建设 rjdasein.com</li>
-</ul>
-
-<h2>联系我</h2>
-
-<p>
-📧 hello@rjdasein.com
-</p>
-
-<p>
-小红书｜Spotify｜小宇宙｜LinkedIn
-</p>
-
-</div>
-
-<footer>
-
-This garden is always growing. 🌱
-
-</footer>
+  <div class="timeline-item">
+    <div class="timeline-dot" style="background: #ffffff;">
+      <img src="/images/logo/szu.svg" alt="Shenzhen University">
+    </div>
+    <div class="timeline-card">
+      <div class="timeline-header">
+        <div class="timeline-role">Research Assistant <span class="timeline-sep">|</span> <span class="timeline-company"><a href="https://bdsc.szu.edu.cn/">Big Data Institute, Shenzhen University</a></span></div>
+        <span class="timeline-time">2023 - 2024</span>
+      </div>
+      <div class="timeline-details">
+        Supervised by Distinguished Professor <a href="https://dblp.org/pid/h/JoshuaZhexueHuang.html">Joshua Zhexue Huang</a>. Carried out optimizations on data processing and clustering algorithms by leveraging distributed approximate computing techniques.
+      </div>
+    </div>
+  </div>
 
 </div>
 
 <script>
+(function() {
+  var timelineProgress = document.getElementById('timeline-progress');
+  var timeline = document.querySelector('.timeline');
+  if (!timelineProgress || !timeline) return;
 
+  var items = timeline.querySelectorAll('.timeline-item');
 
+  // IntersectionObserver for in-view class
+  if ('IntersectionObserver' in window) {
+    var observer = new IntersectionObserver(function(entries) {
+      entries.forEach(function(entry) {
+        if (entry.isIntersecting) {
+          entry.target.classList.add('in-view');
+        }
+      });
+    }, { rootMargin: '0px 0px -15% 0px' });
+
+    items.forEach(function(item, idx) {
+      if (idx < 3) {
+        // Reveal first 3 immediately on load (still gets the stagger transition)
+        item.classList.add('in-view');
+      } else {
+        observer.observe(item);
+      }
+    });
+  } else {
+    items.forEach(function(item) { item.classList.add('in-view'); });
+  }
+
+  // Scroll progress bar
+  window.addEventListener('scroll', function() {
+    var rect = timeline.getBoundingClientRect();
+    var totalHeight = timeline.offsetHeight;
+    var windowH = window.innerHeight;
+    var lineTop = 30;
+    var lineBottom = 30;
+    var lineHeight = totalHeight - lineTop - lineBottom;
+
+    if (rect.top < windowH && rect.bottom > 0) {
+      var scrolled = Math.min(1, Math.max(0, (windowH - rect.top - lineTop) / (totalHeight - lineTop + windowH * 0.4)));
+      timelineProgress.style.height = Math.min(scrolled * lineHeight, lineHeight) + 'px';
+    }
+  }, { passive: true });
+})();
 </script>
 
-</body>
-</html>
+If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - siming_deng_stat [at] 163.com
+
+**<font color="#990000">Seeking Software Engineer and Machine Learning roles — AI Infrastructure, Applied AI / Agents, and ML Systems. Feel free to reach out!</font>**
+
+---
+
+## Publications
+
+<div class="publications-grid">
+
+  <div class="publication-card">
+    <div class="publication-thumb">
+      <img src="/images/papers/paper1.svg" alt="Innovative covariance-based framework">
+      <a href="https://www.tandfonline.com/doi/abs/10.1080/03610918.2026.2635000" class="publication-overlay" target="_blank" rel="noopener">
+        <span>View Paper</span>
+      </a>
+    </div>
+    <div class="publication-info">
+      <div class="publication-title">
+        <a href="https://www.tandfonline.com/doi/abs/10.1080/03610918.2026.2635000" target="_blank" rel="noopener">Innovative covariance-based framework: symmetry assessment and exponentiality testing under multiplicative distortion measurement Errors</a>
+      </div>
+      <div class="publication-authors"><strong class="author-highlight">Siming Deng</strong>, Jun Zhang, Jiongtao Zhong</div>
+      <div class="publication-conference"><span class="pub-venue">Communications in Statistics - Simulation and Computation, 2026</span> <a href="https://www.tandfonline.com/doi/abs/10.1080/03610918.2026.2635000" target="_blank">[paper]</a></div>
+      <div class="publication-details">SCI, first author</div>
+    </div>
+  </div>
+
+  <div class="publication-card">
+    <div class="publication-thumb">
+      <img src="/images/papers/paper2.svg" alt="A New Logarithmic Multiplicative Distortion">
+      <a href="https://onlinelibrary.wiley.com/doi/10.1002/sam.11708" class="publication-overlay" target="_blank" rel="noopener">
+        <span>View Paper</span>
+      </a>
+    </div>
+    <div class="publication-info">
+      <div class="publication-title">
+        <a href="https://onlinelibrary.wiley.com/doi/10.1002/sam.11708" target="_blank" rel="noopener">A New Logarithmic Multiplicative Distortion for Correlation Analysis</a>
+      </div>
+      <div class="publication-authors"><strong class="author-highlight">Siming Deng</strong>, Jun Zhang</div>
+      <div class="publication-conference"><span class="pub-venue">Statistical Analysis and Data Mining, 2024</span> <a href="https://onlinelibrary.wiley.com/doi/10.1002/sam.11708" target="_blank">[paper]</a></div>
+      <div class="publication-details">SCI, JCR: Q1, first author, Top Cited Article - WILEY 2025</div>
+    </div>
+  </div>
+
+  <div class="publication-card">
+    <div class="publication-thumb">
+      <img src="/images/papers/paper3.svg" alt="A Revisit to Pearson Correlation Coefficient">
+      <a href="https://www.tandfonline.com/doi/full/10.1080/03610918.2024.2333352" class="publication-overlay" target="_blank" rel="noopener">
+        <span>View Paper</span>
+      </a>
+    </div>
+    <div class="publication-info">
+      <div class="publication-title">
+        <a href="https://www.tandfonline.com/doi/full/10.1080/03610918.2024.2333352" target="_blank" rel="noopener">A Revisit to Pearson Correlation Coefficient under Multiplicative Distortions</a>
+      </div>
+      <div class="publication-authors"><strong class="author-highlight">Siming Deng</strong>, Jun Zhang, Yingcong Huang, Jiongtao Zhong & Xiaozhen Yang</div>
+      <div class="publication-conference"><span class="pub-venue">Communications in Statistics - Simulation and Computation, 2024</span> <a href="https://www.tandfonline.com/doi/full/10.1080/03610918.2024.2333352" target="_blank">[paper]</a></div>
+      <div class="publication-details">SCI, first author, Highly Cited Paper - Web of Science</div>
+    </div>
+  </div>
+
+  <div class="publication-card">
+    <div class="publication-thumb">
+      <img src="/images/papers/paper4.svg" alt="Covariance Ratio under Multiplicative Distortion">
+      <a href="https://www.tandfonline.com/doi/full/10.1080/03610926.2023.2295240" class="publication-overlay" target="_blank" rel="noopener">
+        <span>View Paper</span>
+      </a>
+    </div>
+    <div class="publication-info">
+      <div class="publication-title">
+        <a href="https://www.tandfonline.com/doi/full/10.1080/03610926.2023.2295240" target="_blank" rel="noopener">Covariance Ratio under Multiplicative Distortion Measurement Errors</a>
+      </div>
+      <div class="publication-authors">Jiongtao Zhong, <strong class="author-highlight">Siming Deng</strong>, Jun Zhang & Zhenghui Feng</div>
+      <div class="publication-conference"><span class="pub-venue">Communications in Statistics - Theory and Methods, 2023</span> <a href="https://www.tandfonline.com/doi/full/10.1080/03610926.2023.2295240" target="_blank">[paper]</a></div>
+      <div class="publication-details">SCI, 2nd-author</div>
+    </div>
+  </div>
+
+  <div class="publication-card">
+    <div class="publication-thumb">
+      <img src="/images/papers/paper5.svg" alt="Estimation of Correlation Coefficient">
+      <a href="https://www.tandfonline.com/doi/full/10.1080/03610926.2023.2288794" class="publication-overlay" target="_blank" rel="noopener">
+        <span>View Paper</span>
+      </a>
+    </div>
+    <div class="publication-info">
+      <div class="publication-title">
+        <a href="https://www.tandfonline.com/doi/full/10.1080/03610926.2023.2288794" target="_blank" rel="noopener">Estimation of Correlation Coefficient with Monotone Transformation and Multiplicative Distortions</a>
+      </div>
+      <div class="publication-authors">Jun Zhang, Xuan Yu, <strong class="author-highlight">Siming Deng</strong>, Jiongtao Zhong, Yisheng Zhou & Bingqing Lin</div>
+      <div class="publication-conference"><span class="pub-venue">Communications in Statistics - Theory and Methods, 2023</span> <a href="https://www.tandfonline.com/doi/full/10.1080/03610926.2023.2288794" target="_blank">[paper]</a></div>
+      <div class="publication-details">SCI, 3rd-author</div>
+    </div>
+  </div>
+
+</div>
+
+<script>
+(function() {
+  if ('IntersectionObserver' in window) {
+    var observer = new IntersectionObserver(function(entries) {
+      entries.forEach(function(entry) {
+        if (entry.isIntersecting) {
+          entry.target.classList.add('animate-in');
+          observer.unobserve(entry.target);
+        }
+      });
+    }, { threshold: 0.08, rootMargin: '0px 0px -40px 0px' });
+    document.querySelectorAll('.publication-card').forEach(function(card) {
+      observer.observe(card);
+    });
+  } else {
+    document.querySelectorAll('.publication-card').forEach(function(card) {
+      card.classList.add('animate-in');
+    });
+  }
+})();
+</script>
+
+---
+
+## Research Interests
+
+- ML Systems & AI Infrastructure
+- Efficient & On-Device Inference (Apple MLX, SGLang)
+- Agentic AI (multi-agent orchestration & tool use)
+- Machine Learning
+- Nonparametric Statistics
+
+I currently work at the intersection of **AI infrastructure and applied ML**, building agent runtimes and optimizing LLM inference.
+
+Previously, my research centered on **nonparametric statistics** and **measurement-error modeling**, unobservable-variable estimation under multiplicative distortion frameworks, where I developed calibration methods and simulation studies to improve correlation-coefficient estimation in complex industrial settings, resulting in five SCI publications.
+<img src="/images/sunset.jpg">
+
+---
+
+## News and Updates
+
+<div class="news-grid">
+  <div class="news-card news-card--publication">
+    <div class="news-meta">
+      <span class="news-date">February 2026</span>
+      <span class="news-tag news-tag--publication">Publication</span>
+    </div>
+    <p>First-Author Paper: <a href="https://www.tandfonline.com/doi/abs/10.1080/03610918.2026.2635000"><strong>Innovative covariance-based framework: symmetry assessment and exponentiality testing under multiplicative distortion measurement Errors</strong></a> Now Officially Published in <a href="https://www.tandfonline.com/journals/lssp20">Communications in Statistics - Simulation and Computation</a></p>
+  </div>
+
+  <div class="news-card news-card--milestone">
+    <div class="news-meta">
+      <span class="news-date">Jan 2026</span>
+      <span class="news-tag news-tag--milestone">Milestone</span>
+    </div>
+    <p>Excited to have received an offer from Apple!</p>
+  </div>
+
+  <div class="news-card news-card--milestone">
+    <div class="news-meta">
+      <span class="news-date">March 2025</span>
+      <span class="news-tag news-tag--milestone">Milestone</span>
+    </div>
+    <p>Thrilled to have received an offer from UPenn Engineering!</p>
+  </div>
+
+  <div class="news-card news-card--publication">
+    <div class="news-meta">
+      <span class="news-date">August 2024</span>
+      <span class="news-tag news-tag--publication">Publication</span>
+    </div>
+    <p>First-Author Paper: <a href="https://onlinelibrary.wiley.com/doi/10.1002/sam.11708"><strong>A New Logarithmic Multiplicative Distortion for Correlation Analysis</strong></a> Now Officially Published in <a href="https://onlinelibrary.wiley.com/journal/19321872">Statistical Analysis and Data Mining</a> (JCR Q1)</p>
+  </div>
+</div>
+
+<script>
+(function() {
+  if ('IntersectionObserver' in window) {
+    var observer = new IntersectionObserver(function(entries) {
+      entries.forEach(function(entry) {
+        if (entry.isIntersecting) {
+          entry.target.classList.add('animate-in');
+          observer.unobserve(entry.target);
+        }
+      });
+    }, { threshold: 0.08, rootMargin: '0px 0px -60px 0px' });
+    document.querySelectorAll('.news-card').forEach(function(card) {
+      observer.observe(card);
+    });
+  } else {
+    document.querySelectorAll('.news-card').forEach(function(card) {
+      card.classList.add('animate-in');
+    });
+  }
+})();
+</script>

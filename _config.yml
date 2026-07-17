@@ -1,35 +1,37 @@
-title: Siming Deng
-# Comment out url when working locally to resolve base urls correctly
-url: https://larrysimingdeng.github.io/
+title: Ruijie Wu
+url: https://rjdasein.com/
 
-# Owner/author information
 owner:
-  name: Siming Deng
+  name: Ruijie Wu
   avatar: avatar.jpg
-  email: siming_deng_stat@163.com
-  github: LarrySimingDeng
-  linkedin: larry-deng-317b92360
-  scholar: https://scholar.google.com/citations?hl=en&user=aKyLtgsAAAAJ
-  researchgate: https://www.researchgate.net/profile/Siming-Deng-3
+  email: eagle@rjdasein.com
+  github: VooEagle
+  linkedin:
+  scholar:
+  researchgate:
 
-# https://search.google.com/search-console/ownership
-google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
+google_verify: ""
 
-# Links to include in top navigation
 links:
-  - title: About Me
+  - title: About
     url: /
-  - title: Publications
-    url: /publications/
-  - title: Beyond Research
-    url: /hobbies/
 
-# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: China/Beijing
+  - title: Services
+    url: /services/
+
+  - title: Workshops
+    url: /workshops/
+
+  - title: Writing
+    url: /writing/
+
+  - title: Contact
+    url: /contact/
+
+timezone: Asia/Ho_Chi_Minh
 future: true
 highlighter: rouge
 
-# https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink: /:categories/:title
 
 kramdown:

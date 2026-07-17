@@ -2,20 +2,36 @@
 layout: page
 ---
 
-# About Me
+# Ruijie Wu
 
-<img src="/images/images/avatar.jpg" class="floatpic">
-Hi, I'm Ruijie.
+<img src="/images/images/avatar.jpg" class="floatpic" alt="Ruijie Wu">
 
-I am an existential psychotherapist, dance movement therapist, and psychomotor therapist.
+### Existential Psychotherapist  
+### Dance Movement Therapist
 
-My work focuses on the relationship between body, movement, emotion, and meaning. I integrate existential psychotherapy, dance movement therapy, trauma-informed practice, and cross-cultural perspectives into both individual and group work.
+<br>
 
-Originally from China, I have studied and worked across China, France, and Germany. Alongside my clinical practice, I facilitate workshops, write about psychology and embodiment, and continue exploring movement as a way of understanding ourselves and the world.
+> **Breathing · Flowing · Being**
 
-This website is my digital garden—a place where I share my professional work, research, writing, workshops, and the experiences that continue shaping who I am.
+---
 
-> **Living · Moving · Becoming**
+## About
+
+Hello, I'm **Ruijie (Eagle) Wu**.
+
+I am an existential psychotherapist, dance movement therapist, and psychomotor therapist whose work centers on the relationship between body, movement, emotion, and meaning.
+
+My clinical practice integrates existential psychotherapy, embodiment, trauma-informed care, and dance movement therapy. Rather than viewing the body and mind as separate, I see movement, emotion, relationship, and lived experience as different expressions of the same human process.
+
+Originally from China, my professional journey has taken me through clinical work, research, and study across China, France, and Germany. These experiences continue to shape how I understand psychotherapy—not only as a profession, but as an ongoing practice of curiosity, presence, and encounter.
+
+RJ Dasein is more than a personal website.
+
+It is a digital garden where I document ideas, therapeutic practice, movement, writing, workshops, and the everyday experiences that continue shaping my understanding of what it means to be human.
+
+I hope this space invites you to pause, breathe, and perhaps discover something meaningful along the way.
+
+---
 
 ## Professional Journey
 

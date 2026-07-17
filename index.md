@@ -17,7 +17,7 @@ This website is my digital garden—a place where I share my professional work, 
 
 > **Living · Moving · Becoming**
 
-## Work Experience
+## Professional Journey
 
 <div class="timeline">
   <div class="timeline-progress" id="timeline-progress"></div>

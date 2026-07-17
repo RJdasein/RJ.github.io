@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="/images/dengsiming.jpg" class="floatpic">
+<img src="/images/avatar.jpg" class="floatpic">
 
 
 ## Work Experience

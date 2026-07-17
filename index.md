@@ -6,9 +6,6 @@ layout: page
 
 <img src="/images/dengsiming.jpg" class="floatpic">
 
-Here is **Siming Deng (Larry Deng)**.<br>
-
-I am a graduate student in the Department of [Electrical and Systems Engineering (ESE)](https://www.ese.upenn.edu/) at the [Penn Engineering](https://www.seas.upenn.edu/) of the **University of Pennsylvania**. Currently, I build **agentic AI tools and infrastructure** for iPhone hardware testing, spanning agent runtimes (multi-agent orchestration and tool use), on-device inference with **Apple MLX**, closed-loop test optimization, and **Vision Transformers** for distribution diagnosis. Broadly, my interests lie at the intersection of **AI infrastructure, applied ML, and hardware systems**. Prior to joining Penn, I gained valuable research experiences as a Research Assistant at Shenzhen University under the supervision of [Dr. Jun Zhang](https://www.researchgate.net/profile/Jun_Zhang93). My work focused on **Nonparametric Statistics**, **Distortion Measurement Error Models**, and **Large Sample Theory**. I developed and analyzed advanced statistical methods, conducted large-scale simulations, and applied these techniques to real-world datasets, resulting in five SCI publications.<br>
 
 ## Work Experience
 
@@ -145,7 +142,7 @@ If you are interested in any aspect of me, I am always open to discussions and c
 
 ---
 
-## Publications
+## Writing
 
 <div class="publications-grid">
 
@@ -262,20 +259,17 @@ If you are interested in any aspect of me, I am always open to discussions and c
 
 ## Research Interests
 
-- ML Systems & AI Infrastructure
-- Efficient & On-Device Inference (Apple MLX, SGLang)
-- Agentic AI (multi-agent orchestration & tool use)
-- Machine Learning
-- Nonparametric Statistics
-
-I currently work at the intersection of **AI infrastructure and applied ML**, building agent runtimes and optimizing LLM inference.
-
-Previously, my research centered on **nonparametric statistics** and **measurement-error modeling**, unobservable-variable estimation under multiplicative distortion frameworks, where I developed calibration methods and simulation studies to improve correlation-coefficient estimation in complex industrial settings, resulting in five SCI publications.
+Existential Psychotherapy
+Dance Movement Therapy
+Trauma
+Grief
+Embodiment
+Cross-cultural Mental Health
 <img src="/images/sunset.jpg">
 
 ---
 
-## News and Updates
+## Current
 
 <div class="news-grid">
   <div class="news-card news-card--publication">

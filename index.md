@@ -35,84 +35,118 @@ I hope this space invites you to pause, breathe, and perhaps discover something 
 
 ## Professional Journey
 
-<div class="timeline">
-  <div class="timeline-progress" id="timeline-progress"></div>
-
-  <div class="timeline-item timeline-item--current">
-    <div class="timeline-dot" style="background: #ffffff;">
-      <img src="/images/logo/apple.svg" alt="Apple">
+<div class="timeline-item timeline-item--current">
+  <div class="timeline-dot" style="background: #ffffff;">
+    <img src="/images/logo/srh.svg" alt="SRH">
+  </div>
+  <div class="timeline-card">
+    <div class="timeline-header">
+      <div class="timeline-role">
+        M.A. Dance Movement Therapy
+        <span class="timeline-sep">|</span>
+        <span class="timeline-company">SRH University Heidelberg</span>
+      </div>
+      <span class="timeline-time">Oct. 2026 – Present</span>
     </div>
-    <div class="timeline-card">
-      <div class="timeline-header">
-        <div class="timeline-role">Software Engineer <span class="timeline-sep">|</span> <span class="timeline-company">Apple Inc.</span></div>
-        <span class="timeline-time">Jan. 2026 - Present</span>
-      </div>
-      <div class="timeline-details">
-        Developed AI agent tools for iPhone hardware testing, enhancing automated diagnostics workflows and improving large-scale test efficiency.
-      </div>
+    <div class="timeline-details">
+      Beginning a new chapter in Germany, exploring the intersection of psychotherapy, movement, embodiment, and creative expression through Dance Movement Therapy.
     </div>
   </div>
+</div>
 
   <div class="timeline-item">
-    <div class="timeline-dot" style="background: #ffffff;">
-      <img src="/images/logo/upenn.svg" alt="UPenn">
+  <div class="timeline-dot" style="background: #ffffff;">
+    <img src="/images/logo/paris.svg" alt="Paris">
+  </div>
+  <div class="timeline-card">
+    <div class="timeline-header">
+      <div class="timeline-role">
+        Existential Psychotherapist
+        <span class="timeline-sep">|</span>
+        <span class="timeline-company">Private Practice · Paris</span>
+      </div>
+      <span class="timeline-time">2025 – 2026</span>
     </div>
-    <div class="timeline-card">
-      <div class="timeline-header">
-        <div class="timeline-role">Research Assistant <span class="timeline-sep">|</span> <span class="timeline-company">University of Pennsylvania</span></div>
-        <span class="timeline-time">Nov. 2025 - Jan. 2026</span>
-      </div>
-      <div class="timeline-details">
-        ViT-driven image geolocation.
-      </div>
+    <div class="timeline-details">
+      Providing psychotherapy for adults from diverse cultural backgrounds while facilitating movement-based therapeutic groups and workshops.
     </div>
   </div>
+</div>
 
   <div class="timeline-item">
-    <div class="timeline-dot" style="background: #ffffff;">
-      <img src="/images/logo/sf.svg" alt="SF Express">
+  <div class="timeline-dot" style="background: #ffffff;">
+    <img src="/images/logo/upc.svg" alt="Université Paris Cité">
+  </div>
+  <div class="timeline-card">
+    <div class="timeline-header">
+      <div class="timeline-role">
+        University Diploma in Psychotraumatology
+        <span class="timeline-sep">|</span>
+        <span class="timeline-company">Université Paris Cité</span>
+      </div>
+      <span class="timeline-time">2025</span>
     </div>
-    <div class="timeline-card">
-      <div class="timeline-header">
-        <div class="timeline-role">Software Engineer <span class="timeline-sep">|</span> <span class="timeline-company">SF Express</span></div>
-        <span class="timeline-time">May. 2025 - Jul. 2025</span>
-      </div>
-      <div class="timeline-details">
-        Delivered microservice modules for the order management system.
-      </div>
+    <div class="timeline-details">
+      Advanced training in trauma, PTSD, grief, attachment, and evidence-informed psychotherapy.
     </div>
   </div>
+</div>
+
+ <div class="timeline-item">
+  <div class="timeline-dot" style="background: #ffffff;">
+    <img src="/images/logo/isrp.svg" alt="ISRP Paris">
+  </div>
+  <div class="timeline-card">
+    <div class="timeline-header">
+      <div class="timeline-role">
+        Master in Psychomotor Therapy
+        <span class="timeline-sep">|</span>
+        <span class="timeline-company">ISRP Paris</span>
+      </div>
+      <span class="timeline-time">2023 – 2024</span>
+    </div>
+    <div class="timeline-details">
+      Studied embodiment, developmental psychology, psychomotor rehabilitation, and therapeutic movement in clinical settings.
+    </div>
+  </div>
+</div>
 
   <div class="timeline-item">
-    <div class="timeline-dot" style="background: #ffffff;">
-      <img src="/images/logo/boc.svg" alt="Bank of China">
+  <div class="timeline-dot" style="background: #ffffff;">
+    <img src="/images/logo/hospital.svg" alt="Psychiatric Hospital">
+  </div>
+  <div class="timeline-card">
+    <div class="timeline-header">
+      <div class="timeline-role">
+        Psychotherapist
+        <span class="timeline-sep">|</span>
+        <span class="timeline-company">Psychiatric Hospital</span>
+      </div>
+      <span class="timeline-time">2020 – 2022</span>
     </div>
-    <div class="timeline-card">
-      <div class="timeline-header">
-        <div class="timeline-role">Software Engineer <span class="timeline-sep">|</span> <span class="timeline-company">Bank of China</span></div>
-        <span class="timeline-time">Jul. 2024 - Sep. 2024</span>
-      </div>
-      <div class="timeline-details">
-        Involved in the deployment and fine-tuning of large language models in internal banking systems.
-      </div>
+    <div class="timeline-details">
+      Worked within a multidisciplinary psychiatric hospital, providing psychotherapy and rehabilitation support for individuals living with severe mental health conditions.
     </div>
   </div>
-
-  <div class="timeline-item">
-    <div class="timeline-dot" style="background: #ffffff;">
-      <img src="/images/logo/szu.svg" alt="Shenzhen University">
+</div>
+<div class="timeline-item">
+  <div class="timeline-dot">
+      🌿
+  </div>
+  <div class="timeline-card">
+    <div class="timeline-header">
+      <div class="timeline-role">
+        Still Becoming
+        <span class="timeline-sep">|</span>
+        <span class="timeline-company">RJ Dasein</span>
+      </div>
+      <span class="timeline-time">Present →</span>
     </div>
-    <div class="timeline-card">
-      <div class="timeline-header">
-        <div class="timeline-role">Research Assistant <span class="timeline-sep">|</span> <span class="timeline-company"><a href="https://bdsc.szu.edu.cn/">Big Data Institute, Shenzhen University</a></span></div>
-        <span class="timeline-time">2023 - 2024</span>
-      </div>
-      <div class="timeline-details">
-        Supervised by Distinguished Professor <a href="https://dblp.org/pid/h/JoshuaZhexueHuang.html">Joshua Zhexue Huang</a>. Carried out optimizations on data processing and clustering algorithms by leveraging distributed approximate computing techniques.
-      </div>
+    <div class="timeline-details">
+      Every place I have lived, every person I have met, every movement I have explored continues to shape the therapist—and the human being—I am becoming.
     </div>
   </div>
-
+</div>
 </div>
 
 <script>
@@ -162,193 +196,59 @@ I hope this space invites you to pause, breathe, and perhaps discover something 
 })();
 </script>
 
-If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - siming_deng_stat [at] 163.com
+If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - hello@rjdasein.com
 
 **<font color="#990000">Seeking Software Engineer and Machine Learning roles — AI Infrastructure, Applied AI / Agents, and ML Systems. Feel free to reach out!</font>**
 
 ---
 
-## Writing
+## Practice
 
-<div class="publications-grid">
+My practice is grounded in existential philosophy, embodied awareness, and the belief that meaningful change emerges through relationship, movement, and lived experience.
 
-  <div class="publication-card">
-    <div class="publication-thumb">
-      <img src="/images/papers/paper1.svg" alt="Innovative covariance-based framework">
-      <a href="https://www.tandfonline.com/doi/abs/10.1080/03610918.2026.2635000" class="publication-overlay" target="_blank" rel="noopener">
-        <span>View Paper</span>
-      </a>
-    </div>
-    <div class="publication-info">
-      <div class="publication-title">
-        <a href="https://www.tandfonline.com/doi/abs/10.1080/03610918.2026.2635000" target="_blank" rel="noopener">Innovative covariance-based framework: symmetry assessment and exponentiality testing under multiplicative distortion measurement Errors</a>
-      </div>
-      <div class="publication-authors"><strong class="author-highlight">Siming Deng</strong>, Jun Zhang, Jiongtao Zhong</div>
-      <div class="publication-conference"><span class="pub-venue">Communications in Statistics - Simulation and Computation, 2026</span> <a href="https://www.tandfonline.com/doi/abs/10.1080/03610918.2026.2635000" target="_blank">[paper]</a></div>
-      <div class="publication-details">SCI, first author</div>
-    </div>
-  </div>
+Rather than working from a single theoretical orientation, I integrate different approaches according to each person's unique way of being in the world.
 
-  <div class="publication-card">
-    <div class="publication-thumb">
-      <img src="/images/papers/paper2.svg" alt="A New Logarithmic Multiplicative Distortion">
-      <a href="https://onlinelibrary.wiley.com/doi/10.1002/sam.11708" class="publication-overlay" target="_blank" rel="noopener">
-        <span>View Paper</span>
-      </a>
-    </div>
-    <div class="publication-info">
-      <div class="publication-title">
-        <a href="https://onlinelibrary.wiley.com/doi/10.1002/sam.11708" target="_blank" rel="noopener">A New Logarithmic Multiplicative Distortion for Correlation Analysis</a>
-      </div>
-      <div class="publication-authors"><strong class="author-highlight">Siming Deng</strong>, Jun Zhang</div>
-      <div class="publication-conference"><span class="pub-venue">Statistical Analysis and Data Mining, 2024</span> <a href="https://onlinelibrary.wiley.com/doi/10.1002/sam.11708" target="_blank">[paper]</a></div>
-      <div class="publication-details">SCI, JCR: Q1, first author, Top Cited Article - WILEY 2025</div>
-    </div>
-  </div>
+### Areas of Practice
 
-  <div class="publication-card">
-    <div class="publication-thumb">
-      <img src="/images/papers/paper3.svg" alt="A Revisit to Pearson Correlation Coefficient">
-      <a href="https://www.tandfonline.com/doi/full/10.1080/03610918.2024.2333352" class="publication-overlay" target="_blank" rel="noopener">
-        <span>View Paper</span>
-      </a>
-    </div>
-    <div class="publication-info">
-      <div class="publication-title">
-        <a href="https://www.tandfonline.com/doi/full/10.1080/03610918.2024.2333352" target="_blank" rel="noopener">A Revisit to Pearson Correlation Coefficient under Multiplicative Distortions</a>
-      </div>
-      <div class="publication-authors"><strong class="author-highlight">Siming Deng</strong>, Jun Zhang, Yingcong Huang, Jiongtao Zhong & Xiaozhen Yang</div>
-      <div class="publication-conference"><span class="pub-venue">Communications in Statistics - Simulation and Computation, 2024</span> <a href="https://www.tandfonline.com/doi/full/10.1080/03610918.2024.2333352" target="_blank">[paper]</a></div>
-      <div class="publication-details">SCI, first author, Highly Cited Paper - Web of Science</div>
-    </div>
-  </div>
-
-  <div class="publication-card">
-    <div class="publication-thumb">
-      <img src="/images/papers/paper4.svg" alt="Covariance Ratio under Multiplicative Distortion">
-      <a href="https://www.tandfonline.com/doi/full/10.1080/03610926.2023.2295240" class="publication-overlay" target="_blank" rel="noopener">
-        <span>View Paper</span>
-      </a>
-    </div>
-    <div class="publication-info">
-      <div class="publication-title">
-        <a href="https://www.tandfonline.com/doi/full/10.1080/03610926.2023.2295240" target="_blank" rel="noopener">Covariance Ratio under Multiplicative Distortion Measurement Errors</a>
-      </div>
-      <div class="publication-authors">Jiongtao Zhong, <strong class="author-highlight">Siming Deng</strong>, Jun Zhang & Zhenghui Feng</div>
-      <div class="publication-conference"><span class="pub-venue">Communications in Statistics - Theory and Methods, 2023</span> <a href="https://www.tandfonline.com/doi/full/10.1080/03610926.2023.2295240" target="_blank">[paper]</a></div>
-      <div class="publication-details">SCI, 2nd-author</div>
-    </div>
-  </div>
-
-  <div class="publication-card">
-    <div class="publication-thumb">
-      <img src="/images/papers/paper5.svg" alt="Estimation of Correlation Coefficient">
-      <a href="https://www.tandfonline.com/doi/full/10.1080/03610926.2023.2288794" class="publication-overlay" target="_blank" rel="noopener">
-        <span>View Paper</span>
-      </a>
-    </div>
-    <div class="publication-info">
-      <div class="publication-title">
-        <a href="https://www.tandfonline.com/doi/full/10.1080/03610926.2023.2288794" target="_blank" rel="noopener">Estimation of Correlation Coefficient with Monotone Transformation and Multiplicative Distortions</a>
-      </div>
-      <div class="publication-authors">Jun Zhang, Xuan Yu, <strong class="author-highlight">Siming Deng</strong>, Jiongtao Zhong, Yisheng Zhou & Bingqing Lin</div>
-      <div class="publication-conference"><span class="pub-venue">Communications in Statistics - Theory and Methods, 2023</span> <a href="https://www.tandfonline.com/doi/full/10.1080/03610926.2023.2288794" target="_blank">[paper]</a></div>
-      <div class="publication-details">SCI, 3rd-author</div>
-    </div>
-  </div>
-
-</div>
-
-<script>
-(function() {
-  if ('IntersectionObserver' in window) {
-    var observer = new IntersectionObserver(function(entries) {
-      entries.forEach(function(entry) {
-        if (entry.isIntersecting) {
-          entry.target.classList.add('animate-in');
-          observer.unobserve(entry.target);
-        }
-      });
-    }, { threshold: 0.08, rootMargin: '0px 0px -40px 0px' });
-    document.querySelectorAll('.publication-card').forEach(function(card) {
-      observer.observe(card);
-    });
-  } else {
-    document.querySelectorAll('.publication-card').forEach(function(card) {
-      card.classList.add('animate-in');
-    });
-  }
-})();
-</script>
+- Existential Psychotherapy
+- Dance Movement Therapy
+- Trauma & PTSD
+- Grief & Loss
+- Embodiment
+- Cross-cultural Mental Health
+- Group Therapy
+- Creative Arts in Psychotherapy
 
 ---
 
-## Research Interests
+> *"The body remembers, movement reveals, and relationship transforms."*
+</div>
 
-Existential Psychotherapy
-Dance Movement Therapy
-Trauma
-Grief
-Embodiment
-Cross-cultural Mental Health
-<img src="/images/sunset.jpg">
+---
+
+
+
 
 ---
 
 ## Current
 
-<div class="news-grid">
-  <div class="news-card news-card--publication">
-    <div class="news-meta">
-      <span class="news-date">February 2026</span>
-      <span class="news-tag news-tag--publication">Publication</span>
-    </div>
-    <p>First-Author Paper: <a href="https://www.tandfonline.com/doi/abs/10.1080/03610918.2026.2635000"><strong>Innovative covariance-based framework: symmetry assessment and exponentiality testing under multiplicative distortion measurement Errors</strong></a> Now Officially Published in <a href="https://www.tandfonline.com/journals/lssp20">Communications in Statistics - Simulation and Computation</a></p>
-  </div>
+📍 Hanoi, Vietnam
 
-  <div class="news-card news-card--milestone">
-    <div class="news-meta">
-      <span class="news-date">Jan 2026</span>
-      <span class="news-tag news-tag--milestone">Milestone</span>
-    </div>
-    <p>Excited to have received an offer from Apple!</p>
-  </div>
+Currently exploring...
 
-  <div class="news-card news-card--milestone">
-    <div class="news-meta">
-      <span class="news-date">March 2025</span>
-      <span class="news-tag news-tag--milestone">Milestone</span>
-    </div>
-    <p>Thrilled to have received an offer from UPenn Engineering!</p>
-  </div>
+• Figure skating
+• Violin
+• German
+• Dance Movement Therapy
+• Cross-cultural psychotherapy
 
-  <div class="news-card news-card--publication">
-    <div class="news-meta">
-      <span class="news-date">August 2024</span>
-      <span class="news-tag news-tag--publication">Publication</span>
-    </div>
-    <p>First-Author Paper: <a href="https://onlinelibrary.wiley.com/doi/10.1002/sam.11708"><strong>A New Logarithmic Multiplicative Distortion for Correlation Analysis</strong></a> Now Officially Published in <a href="https://onlinelibrary.wiley.com/journal/19321872">Statistical Analysis and Data Mining</a> (JCR Q1)</p>
-  </div>
-</div>
+Recently visited...
 
-<script>
-(function() {
-  if ('IntersectionObserver' in window) {
-    var observer = new IntersectionObserver(function(entries) {
-      entries.forEach(function(entry) {
-        if (entry.isIntersecting) {
-          entry.target.classList.add('animate-in');
-          observer.unobserve(entry.target);
-        }
-      });
-    }, { threshold: 0.08, rootMargin: '0px 0px -60px 0px' });
-    document.querySelectorAll('.news-card').forEach(function(card) {
-      observer.observe(card);
-    });
-  } else {
-    document.querySelectorAll('.news-card').forEach(function(card) {
-      card.classList.add('animate-in');
-    });
-  }
-})();
-</script>
+🇯🇵 Japan
+🇮🇩 Indonesia
+🇲🇾 Malaysia
+
+Next...
+
+🇩🇪 Heidelberg

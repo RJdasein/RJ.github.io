@@ -184,7 +184,7 @@ Rather than working from a single theoretical orientation, I integrate different
 
 
 
----
+
 
 ## Current
 

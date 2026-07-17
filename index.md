@@ -1,8 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
 
 <title>RJ Dasein｜芮洁 · 岱生</title>
 
@@ -191,15 +187,6 @@ This garden is always growing. 🌱
 
 <script>
 
-function showCN(){
-document.getElementById("cn").classList.remove("hidden");
-document.getElementById("en").classList.add("hidden");
-}
-
-function showEN(){
-document.getElementById("en").classList.remove("hidden");
-document.getElementById("cn").classList.add("hidden");
-}
 
 </script>
 

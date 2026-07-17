@@ -5,7 +5,17 @@ layout: page
 # About Me
 
 <img src="/images/images/avatar.jpg" class="floatpic">
+Hi, I'm **Ruijie (Eagle) Wu**.
 
+I am an existential psychotherapist, dance movement therapist, and psychomotor therapist.
+
+My work focuses on the relationship between body, movement, emotion, and meaning. I integrate existential psychotherapy, dance movement therapy, trauma-informed practice, and cross-cultural perspectives into both individual and group work.
+
+Originally from China, I have studied and worked across China, France, and Germany. Alongside my clinical practice, I facilitate workshops, write about psychology and embodiment, and continue exploring movement as a way of understanding ourselves and the world.
+
+This website is my digital garden—a place where I share my professional work, research, writing, workshops, and the experiences that continue shaping who I am.
+
+> **Living · Moving · Becoming**
 
 ## Work Experience
 

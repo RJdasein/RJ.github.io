@@ -149,52 +149,7 @@ I hope this space invites you to pause, breathe, and perhaps discover something 
 </div>
 </div>
 
-<script>
-(function() {
-  var timelineProgress = document.getElementById('timeline-progress');
-  var timeline = document.querySelector('.timeline');
-  if (!timelineProgress || !timeline) return;
 
-  var items = timeline.querySelectorAll('.timeline-item');
-
-  // IntersectionObserver for in-view class
-  if ('IntersectionObserver' in window) {
-    var observer = new IntersectionObserver(function(entries) {
-      entries.forEach(function(entry) {
-        if (entry.isIntersecting) {
-          entry.target.classList.add('in-view');
-        }
-      });
-    }, { rootMargin: '0px 0px -15% 0px' });
-
-    items.forEach(function(item, idx) {
-      if (idx < 3) {
-        // Reveal first 3 immediately on load (still gets the stagger transition)
-        item.classList.add('in-view');
-      } else {
-        observer.observe(item);
-      }
-    });
-  } else {
-    items.forEach(function(item) { item.classList.add('in-view'); });
-  }
-
-  // Scroll progress bar
-  window.addEventListener('scroll', function() {
-    var rect = timeline.getBoundingClientRect();
-    var totalHeight = timeline.offsetHeight;
-    var windowH = window.innerHeight;
-    var lineTop = 30;
-    var lineBottom = 30;
-    var lineHeight = totalHeight - lineTop - lineBottom;
-
-    if (rect.top < windowH && rect.bottom > 0) {
-      var scrolled = Math.min(1, Math.max(0, (windowH - rect.top - lineTop) / (totalHeight - lineTop + windowH * 0.4)));
-      timelineProgress.style.height = Math.min(scrolled * lineHeight, lineHeight) + 'px';
-    }
-  }, { passive: true });
-})();
-</script>
 
 If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - hello@rjdasein.com
 

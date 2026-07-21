@@ -7,7 +7,7 @@ layout: page
 <img src="/images/images/avatar.jpg" class="floatpic" alt="Ruijie Wu">
 
 ### Existential Psychotherapist  
-### Dance Movement Therapist
+### Dance Movement & Embodiment
 
 <br>
 
@@ -153,7 +153,7 @@ I hope this space invites you to pause, breathe, and perhaps discover something 
 
 If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - hello@rjdasein.com
 
-**<font color="#990000">Seeking Software Engineer and Machine Learning roles — AI Infrastructure, Applied AI / Agents, and ML Systems. Feel free to reach out!</font>**
+
 
 ---
 

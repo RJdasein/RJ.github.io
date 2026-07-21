@@ -35,119 +35,124 @@ I hope this space invites you to pause, breathe, and perhaps discover something 
 ---
 
 ## Professional Journey
+
 <div class="timeline">
   <div class="timeline-progress"></div>
-<div class="timeline-dot">
-    <img src="/images/comimagesavatar.jpg.png" alt="RJ Dasein">
-</div>
-  <div class="timeline-card">
-    <div class="timeline-header">
-      <div class="timeline-role">
-        M.A. Dance Movement Therapy
-        <span class="timeline-sep">|</span>
-        <span class="timeline-company">SRH University Heidelberg</span>
+
+  <div class="timeline-item timeline-item--current">
+    <div class="timeline-dot"></div>
+
+    <div class="timeline-card">
+      <div class="timeline-header">
+        <div class="timeline-role">
+          M.A. Dance Movement Therapy
+          <span class="timeline-sep">|</span>
+          <span class="timeline-company">SRH University Heidelberg</span>
+        </div>
+        <span class="timeline-time">Oct. 2026 – Present</span>
       </div>
-      <span class="timeline-time">Oct. 2026 – Present</span>
-    </div>
-    <div class="timeline-details">
-      Beginning a new chapter in Germany, exploring the intersection of psychotherapy, movement, embodiment, and creative expression through Dance Movement Therapy.
+
+      <div class="timeline-details">
+        Beginning a new chapter in Germany, exploring the intersection of psychotherapy, movement, embodiment, and creative expression through Dance Movement Therapy.
+      </div>
     </div>
   </div>
-</div>
 
   <div class="timeline-item">
- <div class="timeline-dot">
-    <img src="/images/comimagesavatar.jpg.png" alt="RJ Dasein">
-</div>
-  <div class="timeline-card">
-    <div class="timeline-header">
-      <div class="timeline-role">
-        Existential Psychotherapist
-        <span class="timeline-sep">|</span>
-        <span class="timeline-company">Private Practice · Paris</span>
+    <div class="timeline-dot"></div>
+
+    <div class="timeline-card">
+      <div class="timeline-header">
+        <div class="timeline-role">
+          Existential Psychotherapist
+          <span class="timeline-sep">|</span>
+          <span class="timeline-company">Private Practice · Paris</span>
+        </div>
+        <span class="timeline-time">2025 – 2026</span>
       </div>
-      <span class="timeline-time">2025 – 2026</span>
-    </div>
-    <div class="timeline-details">
-      Providing psychotherapy for adults from diverse cultural backgrounds while facilitating movement-based therapeutic groups and workshops.
+
+      <div class="timeline-details">
+        Providing psychotherapy for adults from diverse cultural backgrounds while facilitating movement-based therapeutic groups and workshops.
+      </div>
     </div>
   </div>
-</div>
 
   <div class="timeline-item">
- <div class="timeline-dot">
-    <img src="/images/comimagesavatar.jpg.png" alt="RJ Dasein">
-</div>
-  <div class="timeline-card">
-    <div class="timeline-header">
-      <div class="timeline-role">
-        University Diploma in Psychotraumatology
-        <span class="timeline-sep">|</span>
-        <span class="timeline-company">Université Paris Cité</span>
-      </div>
-      <span class="timeline-time">2025</span>
-    </div>
-    <div class="timeline-details">
-      Advanced training in trauma, PTSD, grief, attachment, and evidence-informed psychotherapy.
-    </div>
-  </div>
-</div>
+    <div class="timeline-dot"></div>
 
- <div class="timeline-item">
- <div class="timeline-dot">
-    <img src="/images/comimagesavatar.jpg.png" alt="RJ Dasein">
-</div>
-  <div class="timeline-card">
-    <div class="timeline-header">
-      <div class="timeline-role">
-        Master in Psychomotor Therapy
-        <span class="timeline-sep">|</span>
-        <span class="timeline-company">ISRP Paris</span>
+    <div class="timeline-card">
+      <div class="timeline-header">
+        <div class="timeline-role">
+          University Diploma in Psychotraumatology
+          <span class="timeline-sep">|</span>
+          <span class="timeline-company">Université Paris Cité</span>
+        </div>
+        <span class="timeline-time">2025</span>
       </div>
-      <span class="timeline-time">2023 – 2024</span>
-    </div>
-    <div class="timeline-details">
-      Studied embodiment, developmental psychology, psychomotor rehabilitation, and therapeutic movement in clinical settings.
+
+      <div class="timeline-details">
+        Advanced training in trauma, PTSD, grief, attachment, and evidence-informed psychotherapy.
+      </div>
     </div>
   </div>
-</div>
 
   <div class="timeline-item">
-<div class="timeline-dot">
-    <img src="/images/comimagesavatar.jpg.png" alt="RJ Dasein">
-</div>
-  <div class="timeline-card">
-    <div class="timeline-header">
-      <div class="timeline-role">
-        Psychotherapist
-        <span class="timeline-sep">|</span>
-        <span class="timeline-company">Psychiatric Hospital</span>
+    <div class="timeline-dot"></div>
+
+    <div class="timeline-card">
+      <div class="timeline-header">
+        <div class="timeline-role">
+          Master in Psychomotor Therapy
+          <span class="timeline-sep">|</span>
+          <span class="timeline-company">ISRP Paris</span>
+        </div>
+        <span class="timeline-time">2023 – 2024</span>
       </div>
-      <span class="timeline-time">2020 – 2022</span>
-    </div>
-    <div class="timeline-details">
-      Worked within a multidisciplinary psychiatric hospital, providing psychotherapy and rehabilitation support for individuals living with severe mental health conditions.
+
+      <div class="timeline-details">
+        Studied embodiment, developmental psychology, psychomotor rehabilitation, and therapeutic movement in clinical settings.
+      </div>
     </div>
   </div>
-</div>
-<div class="timeline-item">
- <div class="timeline-dot">
-    <img src="/images/comimagesavatar.jpg.png" alt="RJ Dasein">
-</div>
-  <div class="timeline-card">
-    <div class="timeline-header">
-      <div class="timeline-role">
-        Still Becoming
-        <span class="timeline-sep">|</span>
-        <span class="timeline-company">RJ Dasein</span>
+
+  <div class="timeline-item">
+    <div class="timeline-dot"></div>
+
+    <div class="timeline-card">
+      <div class="timeline-header">
+        <div class="timeline-role">
+          Psychotherapist
+          <span class="timeline-sep">|</span>
+          <span class="timeline-company">Psychiatric Hospital</span>
+        </div>
+        <span class="timeline-time">2020 – 2022</span>
       </div>
-      <span class="timeline-time">Present →</span>
-    </div>
-    <div class="timeline-details">
-      Every place I have lived, every person I have met, every movement I have explored continues to shape the therapist—and the human being—I am becoming.
+
+      <div class="timeline-details">
+        Worked within a multidisciplinary psychiatric hospital, providing psychotherapy and rehabilitation support for individuals living with severe mental health conditions.
+      </div>
     </div>
   </div>
-</div>
+
+  <div class="timeline-item">
+    <div class="timeline-dot"></div>
+
+    <div class="timeline-card">
+      <div class="timeline-header">
+        <div class="timeline-role">
+          Still Becoming
+          <span class="timeline-sep">|</span>
+          <span class="timeline-company">RJ Dasein</span>
+        </div>
+        <span class="timeline-time">Present →</span>
+      </div>
+
+      <div class="timeline-details">
+        Every place I have lived, every person I have met, every movement I have explored continues to shape the therapist—and the human being—I am becoming.
+      </div>
+    </div>
+  </div>
+
 </div>
 
 
@@ -219,6 +224,7 @@ Interested in working together?
 Feel free to contact me via email.
 
 📩 hello@rjdasein.com
+
 
 ---
 

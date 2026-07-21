@@ -1,3 +1,9 @@
+---
+layout: default
+title: Contact
+permalink: /contact/
+---
+
 # Contact
 
 I'd love to hear from you.

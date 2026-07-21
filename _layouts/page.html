@@ -606,9 +606,7 @@
         <nav class="header-nav" role="navigation" aria-label="Primary" itemscope itemtype="http://schema.org/SiteNavigationElement">
           {% capture url %}{{ page.url | remove:'index.html' }}{% endcapture %}
           {% for link in site.links %}
-          <a href="{{ site.url | link.url }}"{% if url == link.url %} class="is-current"{% endif %}>{{ link.title }}</a>
-          {% endfor %}
-        </nav>
+         <a href="{{ link.url | relative_url }}"{% if url == link.url %} class="is-current"{% endif %}>{{ link.title }}</a>
       </div>
 
     </div>

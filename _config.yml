@@ -16,16 +16,16 @@ links:
     url: /
 
   - title: Services
-    url: /services.md/
+    url: /services/
 
   - title: Workshops
-    url: /workshops.md/
+    url: /workshops/
 
   - title: Writing
     url: /writing/
 
   - title: Contact
-    url: /contact.md/
+    url: /contact/
 
 timezone: Asia/Ho_Chi_Minh
 future: true

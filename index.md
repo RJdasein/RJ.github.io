@@ -160,6 +160,7 @@ Whether you're seeking psychotherapy, planning a workshop, exploring a collabora
 
 ---
 
+
 ## Services
 
 ### Psychotherapy
@@ -233,22 +234,11 @@ Feel free to contact me via email.
 
 ## Current
 
+
 📍 Hanoi, Vietnam
 
-Currently exploring...
+The fifth month of a nomadic year.
 
-• Figure skating
-• Violin
-• German
-• Dance Movement Therapy
-• Cross-cultural psychotherapy
+Rather than settling down, I am learning to stay present—to breathe, to move, and to belong, even while in motion.
 
-Recently visited...
-
-🇯🇵 Japan
-🇮🇩 Indonesia
-🇲🇾 Malaysia
-
-Next...
-
-🇩🇪 Heidelberg
+Life these days unfolds through psychotherapy, movement, music, languages, and the quiet encounters that travel makes possible.

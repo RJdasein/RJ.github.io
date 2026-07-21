@@ -178,7 +178,6 @@ Rather than working from a single theoretical orientation, I integrate different
 ---
 
 > *"The body remembers, movement reveals, and relationship transforms."*
-</div>
 
 ---
 

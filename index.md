@@ -2,7 +2,8 @@
 layout: page
 ---
 
-# Ruijie Wu 伍芮洁
+# Ruijie Wu 
+伍芮洁
 
 <img src="/images/images/avatar.jpg" class="floatpic" alt="Ruijie Wu">
 

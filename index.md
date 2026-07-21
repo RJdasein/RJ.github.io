@@ -34,7 +34,8 @@ I hope this space invites you to pause, breathe, and perhaps discover something 
 ---
 
 ## Professional Journey
-
+<div class="timeline">
+  <div class="timeline-progress"></div>
 <div class="timeline-item timeline-item--current">
   <div class="timeline-dot" style="background: #ffffff;">
     <img src="/images/logo/srh.svg" alt="SRH">

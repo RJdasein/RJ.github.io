@@ -603,11 +603,13 @@
 
       <!-- Row 2: primary navigation -->
       <div class="header-bottom">
-        <nav class="header-nav" role="navigation" aria-label="Primary" itemscope itemtype="http://schema.org/SiteNavigationElement">
-          {% capture url %}{{ page.url | remove:'index.html' }}{% endcapture %}
-          {% for link in site.links %}
-         <a href="{{ link.url | relative_url }}"{% if url == link.url %} class="is-current"{% endif %}>{{ link.title }}</a>
-      </div>
+        <nav class="header-nav" role="navigation" aria-label="Primary">
+        {% capture url %}{{ page.url | remove:'index.html' }}{% endcapture %}
+        {% for link in site.links %}
+        <a href="{{ link.url | relative_url }}"{% if url == link.url %} class="is-current"{% endif %}>{{ link.title }}</a>
+        {% endfor %}
+      </nav>
+    </div>
 
     </div>
   </div>

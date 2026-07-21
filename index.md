@@ -152,28 +152,72 @@ I hope this space invites you to pause, breathe, and perhaps discover something 
 
 
 
-If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - hello@rjdasein.com
+If something in this space resonates with you, I'd be delighted to hear from you. 
+Whether you're seeking psychotherapy, planning a workshop, exploring a collaboration, or simply starting a conversation—you are warmly welcome to get in touch.
 
 
 
 ---
 
-## Practice
+## Services
 
-My practice is grounded in existential philosophy, embodied awareness, and the belief that meaningful change emerges through relationship, movement, and lived experience.
+### Psychotherapy
 
-Rather than working from a single theoretical orientation, I integrate different approaches according to each person's unique way of being in the world.
+A space for individuals, couples, families, and people navigating the many possibilities of relationships.
 
-### Areas of Practice
+Areas we may explore include:
 
-- Existential Psychotherapy
-- Dance Movement Therapy
+- Anxiety & emotional wellbeing
 - Trauma & PTSD
-- Grief & Loss
+- Grief & loss
+- Life transitions
+- Relationships
+- Cross-cultural experiences
+- Identity & belonging
+
+---
+
+### Embodied Practice
+
+Drawing from psychomotor therapy, embodiment, and movement-based approaches, I integrate body awareness into psychotherapy whenever it feels meaningful and appropriate.
+
+---
+
+### Workshops & Groups
+
+I facilitate movement-based workshops and therapeutic groups that invite reflection, creativity, and embodied exploration.
+
+Current themes include:
+
+- Dance & Movement
 - Embodiment
-- Cross-cultural Mental Health
-- Group Therapy
-- Creative Arts in Psychotherapy
+- Group Process
+- Expressive Arts
+- Mental Health Education
+
+---
+
+### Collaborations
+
+I welcome collaborations with individuals, organizations, and institutions.
+
+Including:
+
+- Writing & Publishing
+- Podcast & Interviews
+- Workshops & Talks
+- University & Research Projects
+- Media & Content Collaboration
+
+---
+
+### FAQ & Booking
+
+Interested in working together?
+
+Feel free to contact me via email.
+
+📩 hello@rjdasein.com
 
 ---
 

@@ -34,6 +34,14 @@ In *Psychomotor Therapy* (《精神运动康复学》)
 
 Huaxia Publishing House, China
 
+---
+
+## Personal Writing
+
+A selection of essays, reflections, and field notes on psychotherapy, embodiment, migration, and everyday life.
+
+*Coming soon.*
+
 Chapter 6 · Section 10
 
 Expected publication: 2027

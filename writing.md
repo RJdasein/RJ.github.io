@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /writing/index.html
+permalink: /writing/
 title: Writing
 ---
 

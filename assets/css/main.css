@@ -240,10 +240,17 @@ table {
 }
 html {
   font: normal 112.5%/1.65 serif;
+background: #FCFBF8;
 }
+
 body {
   word-wrap: normal;
-  color: #5A4635;
+  color: #726A63;
+  background: #FCFBF8;
+  line-height: 1.8;
+  font-weight: 400;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 .tera {
   font-size: 117px;
@@ -380,7 +387,7 @@ abbr {
   font-variant: small-caps;
   font-weight: 400;
   text-transform: lowercase;
-  color: #5A4635;
+  color: #726A63;
 }
 abbr:hover {
   cursor: help;
@@ -391,7 +398,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: #5A4635;
+  color: #4f5b58;
 }
 .lining dt,
 .lining dd {
@@ -1126,7 +1133,7 @@ select {
   width: 100%;
   padding: 4px;
   margin-bottom: 1.25px;
-  background-color: #ffffff;
+  background-color: #FCFBF8;
   border: 1px solid #cccccc;
   color: #5A4635;
 }
@@ -1197,7 +1204,7 @@ input[type="file"] {
 }
 select {
   width: auto;
-  background-color: #ffffff;
+  background-color: #fcfbf8;
 }
 select[multiple],
 select[size] {
@@ -1325,7 +1332,7 @@ select:focus {
   margin-right: 3px;
 }
 html {
-  background-color: #ffffff;
+  background-color: #FCFBF8;
   font-family: "PT Serif", serif;
   font-color: #5A4635;
   font-size: 90%;
@@ -1371,16 +1378,18 @@ html {
   margin-right: 25px;
 }
 .top-navigation li a {
-  decoration: none;
-  border-bottom: 0 solid transparent;
-  -webkit-transition: all 0.2s;
-  -moz-transition: all 0.2s;
-  -ms-transition: all 0.2s;
-  -o-transition: all 0.2s;
-  transition: all 0.2s;
+  text-decoration: none;
+  color: #4F5B58;
+  border-bottom: 2px solid transparent;
+  transition: color 0.25s ease, border-color 0.25s ease;
+}
+.top-navigation li a:hover {
+  color: #8FAEA3;
+  border-bottom-color: #8FAEA3;
 }
 .top-navigation-current {
-  text-decoration: overline;
+  border-bottom: 2px solid #8FAEA3;
+  padding-bottom: 2px;
 }
 #main {
   counter-reset: captions;

@@ -37,10 +37,9 @@ I hope this space invites you to pause, breathe, and perhaps discover something 
 ## Professional Journey
 <div class="timeline">
   <div class="timeline-progress"></div>
-<div class="timeline-item timeline-item--current">
-  <div class="timeline-dot" style="background: #ffffff;">
-    <img src="/images/logo/srh.svg" alt="SRH">
-  </div>
+<div class="timeline-dot">
+    <img src="/images/comimagesavatar.jpg.png" alt="RJ Dasein">
+</div>
   <div class="timeline-card">
     <div class="timeline-header">
       <div class="timeline-role">
@@ -57,9 +56,9 @@ I hope this space invites you to pause, breathe, and perhaps discover something 
 </div>
 
   <div class="timeline-item">
-  <div class="timeline-dot" style="background: #ffffff;">
-    <img src="/images/logo/paris.svg" alt="Paris">
-  </div>
+ <div class="timeline-dot">
+    <img src="/images/comimagesavatar.jpg.png" alt="RJ Dasein">
+</div>
   <div class="timeline-card">
     <div class="timeline-header">
       <div class="timeline-role">
@@ -76,9 +75,9 @@ I hope this space invites you to pause, breathe, and perhaps discover something 
 </div>
 
   <div class="timeline-item">
-  <div class="timeline-dot" style="background: #ffffff;">
-    <img src="/images/logo/upc.svg" alt="Université Paris Cité">
-  </div>
+ <div class="timeline-dot">
+    <img src="/images/comimagesavatar.jpg.png" alt="RJ Dasein">
+</div>
   <div class="timeline-card">
     <div class="timeline-header">
       <div class="timeline-role">
@@ -95,9 +94,9 @@ I hope this space invites you to pause, breathe, and perhaps discover something 
 </div>
 
  <div class="timeline-item">
-  <div class="timeline-dot" style="background: #ffffff;">
-    <img src="/images/logo/isrp.svg" alt="ISRP Paris">
-  </div>
+ <div class="timeline-dot">
+    <img src="/images/comimagesavatar.jpg.png" alt="RJ Dasein">
+</div>
   <div class="timeline-card">
     <div class="timeline-header">
       <div class="timeline-role">
@@ -114,9 +113,9 @@ I hope this space invites you to pause, breathe, and perhaps discover something 
 </div>
 
   <div class="timeline-item">
-  <div class="timeline-dot" style="background: #ffffff;">
-    <img src="/images/logo/hospital.svg" alt="Psychiatric Hospital">
-  </div>
+<div class="timeline-dot">
+    <img src="/images/comimagesavatar.jpg.png" alt="RJ Dasein">
+</div>
   <div class="timeline-card">
     <div class="timeline-header">
       <div class="timeline-role">
@@ -132,9 +131,9 @@ I hope this space invites you to pause, breathe, and perhaps discover something 
   </div>
 </div>
 <div class="timeline-item">
-  <div class="timeline-dot">
-      🌿
-  </div>
+ <div class="timeline-dot">
+    <img src="/images/comimagesavatar.jpg.png" alt="RJ Dasein">
+</div>
   <div class="timeline-card">
     <div class="timeline-header">
       <div class="timeline-role">

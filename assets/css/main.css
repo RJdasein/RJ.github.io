@@ -1689,7 +1689,7 @@ html {
   margin-top: 1em;
   padding-top: 2em;
   padding-bottom: 3em;
-  background-color: #000000;
+  background-color: #F5F2EC;
 }
 .footer-wrap:before,
 .footer-wrap:after {
@@ -1714,13 +1714,13 @@ html {
 .footer-wrap h4,
 .footer-wrap h5,
 .footer-wrap h6 {
-  color: #bfbfbf;
+  color: #8A847D;
 }
 .footer-wrap a {
   border-bottom: 0 solid transparent;
 }
 .footer-wrap a:hover {
-  color: #ffffff;
+  color: #4F5B58;
   border-bottom: 0 solid transparent;
 }
 .footer-wrap footer {
